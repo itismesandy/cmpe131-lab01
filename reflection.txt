@@ -1,0 +1,5 @@
+#CMPE131 Lab01 Written Reflection
+
+Based on this lab, why is using branches a powerful and safe way for a team of software engineers to collaborate on a single project? What problems might it prevent?
+
+Using branches allows multiple software engineers to work on the same project without interfering with each other's code or publishing bad code. Each new branch is isolated from the main code and can be tested or revised thoroughly before being committed to the main branch. Having different branches also allows everyone to see a history of changes made to the code as well as who is working on each section. Branches also provides an extra layer of security to the code because changes can be rolled back if there are problems with code further down.
